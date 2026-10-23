@@ -6,7 +6,7 @@
 /*   By: clement-martin <clement-martin@student.    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/10/23 10:46:21 by clement-mar       #+#    #+#             */
-/*   Updated: 2026/10/23 11:13:59 by clement-mar      ###   ########.fr       */
+/*   Updated: 2026/10/23 12:02:04 by clement-mar      ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,11 +14,11 @@
 
 void	ft_print_alphabet(void);
 
-int	main(void)
-{
-	ft_print_alphabet();
-	return (0);
-}
+//int	main(void)
+//{
+//	ft_print_alphabet();
+//	return (0);
+//}
 
 void	ft_print_alphabet(void)
 {

@@ -6,7 +6,7 @@
 /*   By: clement-martin <clement-martin@student.    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/10/23 10:51:06 by clement-mar       #+#    #+#             */
-/*   Updated: 2026/10/23 11:15:40 by clement-mar      ###   ########.fr       */
+/*   Updated: 2026/10/23 12:02:14 by clement-mar      ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,11 +14,11 @@
 
 void	ft_print_reverse_alphabet(void);
 
-int	main(void)
-{
-	ft_print_reverse_alphabet();
-	return (0);
-}
+// int	main(void)
+// {
+// 	ft_print_reverse_alphabet();
+// 	return (0);
+// }
 
 void	ft_print_reverse_alphabet(void)
 {

@@ -6,7 +6,7 @@
 /*   By: clement-martin <clement-martin@student.    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/10/23 11:35:12 by clement-mar       #+#    #+#             */
-/*   Updated: 2026/10/23 11:40:34 by clement-mar      ###   ########.fr       */
+/*   Updated: 2026/10/23 12:02:44 by clement-mar      ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,11 +14,11 @@
 
 void	ft_print_combn(int n);
 
-int	main(void)
-{
-	ft_print_combn(3);
-	return (0);
-}
+// int	main(void)
+// {
+// 	ft_print_combn(3);
+// 	return (0);
+// }
 
 void	ft_print_combn(int n)
 {
